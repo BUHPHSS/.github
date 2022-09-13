@@ -4,7 +4,7 @@
 <h2 align="center">Learn -> Share -> Compete</h2>
 
 <div align=center>
-    <img src="https://github.com/LWM-Community/.github/blob/main/folders/LWM.gif" />
+    <img src="https://github.com/BUHPHSS/.github/blob/main/folder/Screenshot%202022-09-13%20101909.jpg" />
 </div>
 
 <div align=center>
